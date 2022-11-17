@@ -1,12 +1,6 @@
 #ifndef _SHELL_H_
 #define _SHELL_H_
 
-/*
- * File: shell.h
- * Auth: Alex Yu
- *       Brennan D Baraban
- */
-
 #include <fcntl.h>
 #include <signal.h>
 #include <sys/types.h>
@@ -338,6 +332,3 @@ void check_chain(info_t *, char *, size_t *, size_t, size_t);
 int replace_alias(info_t *);
 int replace_vars(info_t *);
 int replace_string(char **, char *);
-
-#endif
->>>>>>> cdf46e2841a93f1cec5602b79fe9ed06065f7c4f
