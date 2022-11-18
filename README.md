@@ -1,4 +1,4 @@
-Simpshell - Simple Shell shell
+Simphell - Simple Shell shell
 
 A simple UNIX command interpreter written as part of the low-level programming and algorithm track at Holberton School.
 Description speech_balloon
